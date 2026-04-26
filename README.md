@@ -42,6 +42,10 @@ This project demonstrates end-to-end data analytsis skills including data queryi
 ## Author
 Name- Rajat Gupta
 
+## Note
+This SQL project uses the Accounts Payable dataset for data extraction, cleaning, and analysis.
+
+The same dataset is also used independently in a Power BI project to create interactive dashboard
 
 
 
